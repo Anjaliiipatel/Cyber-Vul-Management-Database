@@ -1,4 +1,3 @@
-# Cyber-Vul-Management-Database
 # Cybersecurity Vulnerability Management Platform
 
 A relational database project designed to simulate vulnerability management operations within an enterprise cybersecurity environment.
